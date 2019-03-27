@@ -16,4 +16,4 @@
 
 
 ## 팀 로고(Team Logo)
-![alt text](https://raw.githubusercontent.com/Im-Tae/Sirius_Game/master/Design/%ED%8C%80%20%EB%A1%9C%EA%B3%A0.png?token=AnRFWdAjL_nISFTNZWpGJ7v5e40k4m_iks5cme7bwA%3D%3D)
+![alt text](https://github.com/sirius-team/Beat-Star/blob/master/Design/%ED%8C%80%20%EB%A1%9C%EA%B3%A0.png?raw=true)
