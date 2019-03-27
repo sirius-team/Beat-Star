@@ -15,5 +15,5 @@
 임태건 - 일러스트레이터, 게임 제작
 
 
-## 팀 로고(Team Logo)
+## 팀 로고(Team Logo) - 구상 : 곽은상 / 디자인 : 임태건
 ![alt text](https://github.com/sirius-team/Beat-Star/blob/master/Design/%ED%8C%80%20%EB%A1%9C%EA%B3%A0.png?raw=true)
