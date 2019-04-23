@@ -5,7 +5,7 @@
 
 ## 제작 프로그램
 
-게임엔진 : 유니티(c#)
+게임엔진 : GameMaker Stduio
 음악 : Ableton, BandLab
 일러스트 : Photoshop, 그림판
 
@@ -14,8 +14,12 @@
 곽은상 - 기획, 게임 제작, 일러스트레이터 \
 김강훈 - 사운드 제작, 게임 제작 \
 김재빈 - 게임 제작, 일러스트레이터 \
-임태건 - 일러스트레이터, 게임 제작
+임태건 - 일러스트레이터, 게임 제작 \
+최다원 - 사운드 제작, 게임 제작
 
 
 ## 팀 로고(Team Logo) - 구상 : 곽은상 / 디자인 : 임태건
 ![alt text](https://github.com/sirius-team/Beat-Star/blob/master/Design/%ED%8C%80%20%EB%A1%9C%EA%B3%A0.png?raw=true)
+
+## 변경 사항
+Unity engine에서 GameMaker Studio로 
