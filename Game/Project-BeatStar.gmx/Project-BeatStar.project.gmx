@@ -20,6 +20,7 @@
     <object>objects\object2</object>
     <object>objects\obj_red</object>
     <object>objects\object4</object>
+    <object>objects\obj_creator</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
