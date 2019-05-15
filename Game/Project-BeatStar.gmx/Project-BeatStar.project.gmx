@@ -11,6 +11,7 @@
     <sprite>sprites\spr_red</sprite>
     <sprite>sprites\sprite5</sprite>
     <sprite>sprites\spr_redbeat</sprite>
+    <sprite>sprites\spr_testbutton</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -21,6 +22,7 @@
     <object>objects\obj_red</object>
     <object>objects\obj_redbeat</object>
     <object>objects\obj_creator</object>
+    <object>objects\obj_testbutton</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
