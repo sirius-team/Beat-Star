@@ -27,7 +27,6 @@
             <kind>1</kind>
             <string>instance_create(x,y,obj_blue);
 instance_create(x,y,obj_red);
-
 </string>
           </argument>
         </arguments>

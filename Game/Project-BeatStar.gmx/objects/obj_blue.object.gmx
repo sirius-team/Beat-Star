@@ -50,8 +50,8 @@
             <kind>1</kind>
             <string>if instance_exists(object2)
 {
- x = object2.x + lengthdir_x(128, turn);
- y = object2.y + lengthdir_y(128, turn);   
+ x = object2.x + lengthdir_x(121, turn);
+ y = object2.y + lengthdir_y(121, turn);   
 } 
 turn++
 </string>
