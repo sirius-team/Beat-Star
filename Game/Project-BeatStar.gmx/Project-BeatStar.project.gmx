@@ -11,6 +11,7 @@
     <sprite>sprites\spr_red</sprite>
     <sprite>sprites\sprite5</sprite>
     <sprite>sprites\spr_redbeat</sprite>
+    <sprite>sprites\spr_testbutton</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
